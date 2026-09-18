@@ -34,7 +34,7 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 - C#
-- .NET 8 / .NET 9
+- .NET
 - ASP.NET Core
 - Blazor
 - Entity Framework Core
@@ -173,7 +173,7 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 
 Modern enterprise template based on:
 
-- .NET 9
+- .NET
 - CQRS
 - SOLID
 - MediatR
