@@ -2,9 +2,9 @@
 
 ## Senior Software Engineer | Software Architect | .NET & Cloud Specialist
 
-Computer & Software Engineer with 20+ years of experience designing, developing and evolving enterprise applications, distributed systems and mission-critical business platforms.
+Computer and Software Engineer with 20+ years of experience designing, developing, and evolving enterprise applications, distributed systems, and mission-critical business platforms.
 
-I specialize in Microsoft technologies, software architecture, cloud-native solutions and modern web development.
+I specialize in Microsoft technologies, software architecture, cloud-native solutions, and modern web development.
 
 📍 Ticino, Switzerland 🇨🇭
 
@@ -13,14 +13,14 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 ## 🚀 About Me
 
 - 💼 Senior Software Engineer with 20+ years of professional experience
-- 🏗️ Software Architecture & Enterprise Solutions
-- ⚡ .NET, ASP.NET Core and Blazor specialist
-- 🔐 Secure Software Development
-- ☁️ Azure, CI/CD and DevOps enthusiast
-- 🐳 Docker & Cloud-Native Applications
-- 🤖 AI-powered Development & GitHub Copilot
-- 👨‍🏫 Technical Mentor and Code Reviewer
-- 📚 Lifelong Learner
+- 🏗️ Software architecture and enterprise solution design
+- ⚡ .NET, ASP.NET Core, and Blazor specialist
+- 🔐 Secure software development and application hardening
+- ☁️ Azure, CI/CD, and DevOps enthusiast
+- 🐳 Docker and cloud-native application design
+- 🤖 AI-assisted development and GitHub Copilot
+- 👨‍🏫 Technical mentor, reviewer, and code quality advocate
+- 📚 Continuous learner with a passion for engineering excellence
 
 ---
 
@@ -92,56 +92,56 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 
 ## 🎯 Core Expertise
 
-- Enterprise Software Development
-- Software Architecture
+- Enterprise software development
+- Software architecture
 - Clean Architecture
-- Domain Driven Design (DDD)
+- Domain-Driven Design (DDD)
 - CQRS
-- REST API Design
-- Legacy Modernization
-- Performance Optimization
-- Technical Leadership
-- Agile Development
-- Code Reviews
-- Developer Mentoring
+- REST API design
+- Legacy modernization
+- Performance optimization
+- Technical leadership
+- Agile delivery
+- Code reviews
+- Developer mentoring
 
 ---
 
 ## 🔐 Security
 
-- JWT Authentication
+- JWT authentication
 - OAuth2
-- API Security
-- Security Headers
-- Reverse Proxy Architectures
-- Secure Software Development
-- Application Hardening
-- YARP Reverse Proxy
+- API security
+- Security headers
+- Reverse proxy architectures
+- Secure software development
+- Application hardening
+- YARP reverse proxy
 
 ---
 
 ## 📈 Current Focus
 
 - ASP.NET Core & Blazor
-- Secure Enterprise Architectures
-- AI-assisted Development
+- Secure enterprise architectures
+- AI-assisted development
 - Kubernetes
-- Cloud-Native Applications
-- Developer Productivity
-- Software Quality Engineering
+- Cloud-native applications
+- Developer productivity
+- Software quality engineering
 
 ---
 
 ## 🏢 Industry Experience
 
 - Healthcare
-- ERP & Business Management
-- Industrial Automation
-- Enterprise Platforms
-- Security & Access Control
+- ERP & business management
+- Industrial automation
+- Enterprise platforms
+- Security & access control
 - Manufacturing
-- Financial Services
-- System Integration
+- Financial services
+- System integration
 
 ---
 
@@ -212,11 +212,3 @@ Production-ready starter template including:
 - LinkedIn: https://www.linkedin.com/in/davidenava85
 - Microsoft Learn: https://learn.microsoft.com/en-us/users/davidenava
 - GitHub: https://github.com/davide-nava
-
----
-
-## 💡 Personal Motto
-
-> Building software is not only about making things work.
->
-> It's about making systems scalable, maintainable, secure
