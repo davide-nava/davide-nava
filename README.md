@@ -13,7 +13,7 @@ I specialize in **Microsoft .NET**, **Cloud-Native Solutions (Azure, Containers)
 ## 🚀 About Me
 
 - 💼 **Senior Software Engineer & Architect** with 20+ years of enterprise experience
-- ⚡ **Backend & Distributed Systems**: .NET Core/.NET 8+, ASP.NET Core, Blazor, Web APIs, Modular Systems
+- ⚡ **Backend & Distributed Systems**: .NET Core / .NET 8+, ASP.NET Core, Blazor, Web APIs, Modular Systems
 - 🏛️ **Architecture & Best Practices**: Clean Architecture, CQRS, MediatR, SOLID, Test-Driven Development (TDD)
 - ☁️ **Cloud & Platform Engineering**: Microsoft Azure, Docker, Kubernetes, CI/CD with GitHub Actions & Azure DevOps
 - 🧪 **Quality & Testing**: Unit Testing, Integration Testing, TDD, Static Code Analysis, Refactoring
@@ -38,7 +38,7 @@ I specialize in **Microsoft .NET**, **Cloud-Native Solutions (Azure, Containers)
 
 ## 🏆 Key Certifications & Professional Credentials
 
-*Tutte le mie credenziali ufficiali e badge verificabili sono consultabili su [Credly](https://www.credly.com/users/davidenava85/badges).*
+*All my verified badges and official credentials can be viewed on [Credly](https://www.credly.com/users/davidenava85/badges).*
 
 ### Industry & Official Vendor Credentials
 - **GitHub Copilot** – Verified Credential (June 2026)
@@ -67,12 +67,13 @@ Production-ready boilerplate implementing Clean Architecture, CQRS, MediatR, Flu
 Enterprise edge gateway architecture featuring rate limiting, JWT validation, custom middleware, and header sanitization.
 
 ### ⚡ Blazor Enterprise Starter Kit
-Modern, multi-tenant capable Blazor application scaffolding integrating role-based access control, Serilog logging, and centralized state management.
+Modern, production-ready Blazor application scaffolding integrating role-based access control, Serilog logging, and centralized state management.
 
 ---
 
 ## 🌐 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/davidenava85](https://www.linkedin.com/in/davidenava85)
+- **Credly (Badges & Certifications)**: [credly.com/users/davidenava85/badges](https://www.credly.com/users/davidenava85/badges)
 - **Microsoft Learn**: [learn.microsoft.com/users/davidenava](https://learn.microsoft.com/users/davidenava)
 - **GitHub**: [github.com/davide-nava](https://github.com/davide-nava)
