@@ -1,147 +1,113 @@
 # Hi there, I'm Davide Nava 👋
 
-## Senior Software Engineer | Software Architect | .NET & Cloud Enthusiast
+## Senior Software Engineer | Software Architect | .NET & Cloud Specialist
 
 Computer & Software Engineer with 20+ years of experience designing, developing and evolving enterprise applications, distributed systems and mission-critical business platforms.
 
-I specialize in Microsoft technologies, modern web architectures, cloud-native development and software engineering best practices.
+I specialize in Microsoft technologies, software architecture, cloud-native solutions and modern web development.
 
-📍 Based in Ticino, Switzerland 🇨🇭
+📍 Ticino, Switzerland 🇨🇭
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Senior Software Engineer with 20+ years of professional experience
-- 🏗️ Software Architecture and Enterprise Application Design
-- ⚡ Microsoft .NET Specialist (C#, ASP.NET Core, Blazor)
-- 🔐 Security-focused Development
-- ☁️ Azure, DevOps and Cloud Solutions
-- 🐳 Docker and Containerized Applications
+- 🏗️ Software Architecture & Enterprise Solutions
+- ⚡ .NET, ASP.NET Core and Blazor specialist
+- 🔐 Secure Software Development
+- ☁️ Azure, CI/CD and DevOps enthusiast
+- 🐳 Docker & Cloud-Native Applications
 - 🤖 AI-powered Development & GitHub Copilot
-- 📚 Lifelong Learner and Technology Enthusiast
 - 👨‍🏫 Technical Mentor and Code Reviewer
+- 📚 Lifelong Learner
 
 ---
 
-## 🎯 Core Expertise
+## 🛠 Tech Stack
 
-✅ Enterprise Software Development
+### Backend
 
-✅ Software Architecture
-
-✅ Clean Architecture
-
-✅ Domain Driven Design (DDD)
-
-✅ CQRS
-
-✅ REST API Design
-
-✅ Legacy System Modernization
-
-✅ Performance Optimization
-
-✅ Database Design
-
-✅ Technical Leadership
-
-✅ Agile Development
-
-✅ Developer Mentoring
-
----
-
-## 🛠️ Technology Stack
-
-### Backend Development
-
-![C#](https://img.shields.io/badge/C%23-512BD4=for-the-badge&logo=csharp&logoColor=white
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnetor=white
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512e-badge
-![Blazor](httpselds.io/badge/Blazor-512BD4?style=for-the-badge
-![Entity Framework](https://img.shy_Framework-512BD4?style=for-the-badge
-
-**Languages & Frameworks**
+![C#](https://img.shieldsdge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white
+![.NET](https://img.shields.io/badge/.NET-512BD4lat-square&logo=dotnet&logoColor=white
+![ASP.NET Core](https://img.shields.io/re-512BD4?style=flat-square
+![Blazor](https://img.shields.io/badge/BD4?style=flat-square
 
 - C#
 - .NET 8 / .NET 9
 - ASP.NET Core
 - Blazor
-- PHP / Laravel
-- Java
-- VB.NET
+- Entity Framework Core
+- Dapper
+- REST APIs
+- Clean Architecture
+- CQRS
 
 ---
 
-### Frontend Development
+### Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178he-badge&logo=typescript&logoColor=white
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=oColor=white
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=oColor=black
+![TypeScript](https://img.shields.io/badge78C6?style=flat-square&logo=typescript&logoColor=white
+![Angular](https://img.shields.io/badge/Angular-DD0031-square&logo=angular&logoColor=white
+![React](https://img.shields.io/badge/Reacttyle=flat-square&logo=react&logoColor=black
 
 - TypeScript
-- JavaScript (ES6+)
+- JavaScript
 - Angular
 - React
 - HTML5
 - CSS3
 - SCSS
-- Responsive UI
 
 ---
 
-### Database Engineering
+### Database
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserverte
+![SQL Servershields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white
 
 - Microsoft SQL Server
 - MySQL
 - Entity Framework Core
 - Dapper
-- Database Design
-- Index Optimization
-- Query Performance Tuning
-- Stored Procedures
+- Query Optimization
+- Performance Tuning
 
 ---
 
-### Cloud, DevOps & Infrastructure
+### Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0078D4r-the-badge&logo=microsoftazure&logoColor=white
-![Docker](https://img.shields.io/badge/Dockeryle=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
 
-- Microsoft Azure
+- Azure
 - Azure DevOps
-- GitHub
 - GitHub Actions
 - Docker
 - CI/CD Pipelines
 - IIS
 - Nginx
-- Apache
-- Windows Server
 - Linux
 
 ---
 
-### Architecture & Engineering Practices
+## 🎯 Core Expertise
 
+- Enterprise Software Development
+- Software Architecture
 - Clean Architecture
-- SOLID Principles
-- DDD
+- Domain Driven Design (DDD)
 - CQRS
-- Modular Monoliths
-- Microservices
-- TDD
-- Clean Code
-- Refactoring
-- UML
-- Design Patterns
+- REST API Design
+- Legacy Modernization
+- Performance Optimization
+- Technical Leadership
+- Agile Development
+- Code Reviews
+- Developer Mentoring
 
 ---
 
-### Security
+## 🔐 Security
 
 - JWT Authentication
 - OAuth2
@@ -150,27 +116,23 @@ I specialize in Microsoft technologies, modern web architectures, cloud-native d
 - Reverse Proxy Architectures
 - Secure Software Development
 - Application Hardening
+- YARP Reverse Proxy
 
 ---
 
 ## 📈 Current Focus
 
-I'm currently focused on:
-
 - ASP.NET Core & Blazor
-- Secure Software Architectures
-- YARP Reverse Proxy Solutions
+- Secure Enterprise Architectures
+- AI-assisted Development
 - Kubernetes
 - Cloud-Native Applications
-- AI-assisted Development
 - Developer Productivity
 - Software Quality Engineering
 
 ---
 
-## 🏢 Industries & Domains
-
-Throughout my career I've worked on software solutions for:
+## 🏢 Industry Experience
 
 - Healthcare
 - ERP & Business Management
@@ -191,79 +153,70 @@ Throughout my career I've worked on software solutions for:
 - MCSA Web Applications
 - MCTS C#
 - Azure Fundamentals
-- Full Stack & Back-End Developer Professional Certificates
-
-### GitHub & AI
-
-- GitHub Copilot Certified
 
 ### Agile
 
 - Professional Scrum Master I (PSM I)
 - Scrum Fundamentals Certified
-- Google Agile Essentials
 
-### Software Engineering
+### AI & Software Engineering
 
+- GitHub Copilot
 - IBM Software Engineering Essentials
 - IBM Full Stack Software Developer
 
 ---
 
-## 📚 Continuous Learning
-
-I strongly believe that software engineering is a continuous learning journey.
-
-Current topics of interest:
-
-- Artificial Intelligence
-- Cloud Architecture
-- Kubernetes
-- Software Security
-- Distributed Systems
-- System Design
-- Developer Experience (DX)
-
----
-
-## 📊 GitHub Goals
-
-My public repositories focus on:
-
-- Enterprise .NET solutions
-- Architecture patterns
-- Blazor applications
-- Security implementations
-- DevOps automation
-- Reusable engineering templates
-
----
-
 ## 🔥 Featured Projects
 
-Repositories that best represent my work:
+### Clean Architecture Template
 
-- Clean Architecture Template
-- Blazor Enterprise Starter Kit
-- ASP.NET Core Security Toolkit
-- YARP Reverse Proxy Security Gateway
-- Docker & Azure DevOps Deployments
+Modern enterprise template based on:
+
+- .NET 9
+- CQRS
+- SOLID
+- MediatR
+- Clean Architecture
+
+### YARP Security Gateway
+
+Reverse proxy solution with:
+
+- JWT Authentication
+- Security Headers
+- Rate Limiting
+- API Protection
+
+### Blazor Enterprise Starter Kit
+
+Production-ready starter template including:
+
+- Authentication
+- Authorization
+- Logging
+- Monitoring
+
+---
+
+## 📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=davide-nava&show_icons=true&theme=github_dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=davide-nava&layout=compact&theme=github_dark
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/davidenava85
-- Microsoft Learn: https://learn.microsoft.com/users/davidenava
-- GitHub: https://github.com/davide-nava
+- LinkedIn: www.linkedin.com/in/davidenava85
+- Microsoft Learn: learn.microsoft.com/users/davidenava
+- GitHub: github.com/davide-nava
 
 ---
 
 ## 💡 Personal Motto
 
-> “Building software is not just about making things work.
-> It's about making them scalable, maintainable, secure and valuable for people.”
-
----
-
-⭐ If you find my projects useful, feel free to follow me and give a star to the repositories you like.
+> Building software is not only about making things work.
+>
+> It's about making systems scalable, maintainable, secure
