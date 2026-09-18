@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Davide Nava 👋
 
-<!--
-**davide-nava/davide-nava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer based in Switzerland 🇨🇭
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Senior Software Engineer
+- ⚡ ASP.NET Core & Blazor
+- 🔐 Application Security
+- 🌐 Reverse Proxy (YARP)
+- ☸ Kubernetes
+- 🤖 AI-powered applications
+
+## Current focus
+
+- Secure ASP.NET Core architectures
+- Blazor Server applications
+- AI integrations
+- Cloud-native deployments
+
+## Tech Stack
+
+C# • .NET • ASP.NET Core • Blazor • SQL Server • PostgreSQL • Docker • Kubernetes • YARP • Azure
+
+## Find me
+
+- LinkedIn: [...](https://www.linkedin.com/in/davidenava85/)
+- Location: Ticino, Switzerland
