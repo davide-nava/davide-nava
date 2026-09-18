@@ -28,10 +28,10 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 
 ### Backend
 
-![C#](https://img.shieldsdge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white
-![.NET](https://img.shields.io/badge/.NET-512BD4lat-square&logo=dotnet&logoColor=white
-![ASP.NET Core](https://img.shields.io/re-512BD4?style=flat-square
-![Blazor](https://img.shields.io/badge/BD4?style=flat-square
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 - C#
 - .NET 8 / .NET 9
@@ -47,9 +47,9 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 
 ### Frontend
 
-![TypeScript](https://img.shields.io/badge78C6?style=flat-square&logo=typescript&logoColor=white
-![Angular](https://img.shields.io/badge/Angular-DD0031-square&logo=angular&logoColor=white
-![React](https://img.shields.io/badge/Reacttyle=flat-square&logo=react&logoColor=black
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 - TypeScript
 - JavaScript
@@ -63,7 +63,7 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 
 ### Database
 
-![SQL Servershields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 - Microsoft SQL Server
 - MySQL
@@ -76,8 +76,8 @@ I specialize in Microsoft technologies, software architecture, cloud-native solu
 
 ### Cloud & DevOps
 
-https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - Azure
 - Azure DevOps
@@ -201,17 +201,17 @@ Production-ready starter template including:
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=davide-nava&show_icons=true&theme=github_dark
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davide-nava&show_icons=true&theme=github_dark)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=davide-nava&layout=compact&theme=github_dark
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davide-nava&layout=compact&theme=github_dark)
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/davidenava85
-- Microsoft Learn: learn.microsoft.com/users/davidenava
-- GitHub: github.com/davide-nava
+- LinkedIn: https://www.linkedin.com/in/davidenava85
+- Microsoft Learn: https://learn.microsoft.com/en-us/users/davidenava
+- GitHub: https://github.com/davide-nava
 
 ---
 
