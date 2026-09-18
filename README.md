@@ -38,8 +38,6 @@ I specialize in **Microsoft .NET**, **Cloud-Native Solutions (Azure, Containers)
 
 ## 🏆 Key Certifications & Professional Credentials
 
-*All my verified badges and official credentials can be viewed on [Credly](https://www.credly.com/users/davidenava85/badges).*
-
 ### Industry & Official Vendor Credentials
 - **GitHub Copilot** – Verified Credential (June 2026)
 - **Professional Scrum Master™ I (PSM I)** – Scrum.org (Sept 2026)
